@@ -1,3 +1,4 @@
+```
 usage: git_recover_deleted.py [-h] [-p] [-v] output_dir [filter]
 
 positional arguments:
@@ -9,5 +10,5 @@ optional arguments:
   -p, --pretend  do not actually copy files
   -v, --verbose  print verbose
 
-go through git history and copy each deleted files to
-<output_dir>/<filenum>_<commitnum>_<path>
+go through git history and copy each deleted files to <output_dir>/<filenum>_<commitnum>_<path>
+```
